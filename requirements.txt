@@ -103,7 +103,7 @@ pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==7.2.0
 pip-upgrade-outdated==1.5
-pipenv==2020.6.2
+pipenv==2022.1.8
 pluggy==0.13.1
 portalocker==1.7.1
 prometheus-client==0.7.1
